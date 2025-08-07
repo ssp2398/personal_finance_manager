@@ -28,16 +28,11 @@ This project is a web-based personal finance management tool built with Java (Sp
 
       Transaction summaries and trends
 
-## Coming Soon or Planned Features
-The following features are planned for future update
+ 
+4. MoneyGuru Finance Assistant 
 
-** Budgeting Assistant (AI-powered) **
+    Smart suggestions 
 
-    Smart suggestions based on historical spending
-
-    Warnings for potential overspending
-
-    Monthly savings recommendations
 
 # Database (SQL)
 
